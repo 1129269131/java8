@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecbdcb56-80f4-4afb-955e-2b387c4627e1" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tjh/day02Lambda2/Lambda2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="107" column="49" selection-start-line="107" selection-start-column="37" selection-end-line="107" selection-end-column="49" />
+              <folding>
+                <element signature="e#2851#2852#0" expanded="true" />
+                <element signature="e#2890#2891#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/tjh/day20重复注解与类型注解/TestAnnotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="603">
+              <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tjh/day20重复注解与类型注解/MyAnnotations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tjh/day20重复注解与类型注解/MyAnnotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tjh/day02Lambda2/MyFun.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>compare</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/tjh/day01Lambda表达式/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/Lambda1.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day02Lambda2/MyFun.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day02Lambda2/Lambda2.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day03Lambda练习/MyFunction.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day03Lambda练习/MyFunction2.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day03Lambda练习/TestLambda.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day04四大内置核心函数式接口/Lambda.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day05方法引用与构造器引用/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day05方法引用与构造器引用/TestMethodRef.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day06创建Stream/TestStreamAPI1.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day07Stream_筛选与切片/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day07Stream_筛选与切片/TestStreamAPI2.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day08Stream_映射/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day08Stream_映射/TestStreamAPI3.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day09Stream_排序/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day10Stream_查找与匹配/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day11Stream_归约与收集/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day11Stream_归约与收集/TestStreamAPI6.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day12StreamAPI_练习/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day12StreamAPI_练习/TestStreamAPI7.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day12StreamAPI_练习/TestTransaction.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day12StreamAPI_练习/TestTransaction1.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day13并行流与串行流/ForkJoinCalculate.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day13并行流与串行流/TestForkJoin.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day14Optional容器类/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day14Optional容器类/TestOptional.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day14Optional容器类/Godness.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day14Optional容器类/NewMan.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day14Optional容器类/TestOptional2.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day15接口中的默认方法与静态方法/MyFun.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day15接口中的默认方法与静态方法/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day15接口中的默认方法与静态方法/MyInterface1.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day15接口中的默认方法与静态方法/SubClass.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day15接口中的默认方法与静态方法/SubClass1.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day15接口中的默认方法与静态方法/MyInterface.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day15接口中的默认方法与静态方法/TestDefaultInterface.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day16传统时间格式化的线程安全问题/TestSimpleDateFormat.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day17新时间与日期API本地时间与时间戳/TestLocalDateTime.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day17新时间与日期API_本地时间与时间戳/TestLocalDateTime.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day18新时间和日期API_时间校正器/TestNewDateAPI2.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day19新时间和日期API_时间格式化与时区的处理/TestNewDateAPI3.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day20重复注解与类型注解/MyAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day09Stream_排序/TestStreamAPI4.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day10Stream_查找与匹配/TestStreamAPI5.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day01Lambda表达式/Lambda1.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day20重复注解与类型注解/MyAnnotations.java" />
+        <option value="$PROJECT_DIR$/src/com/tjh/day20重复注解与类型注解/TestAnnotation.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="476" />
+    <option name="y" value="130" />
+    <option name="width" value="1368" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611209357564" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tjh.day20重复注解与类型注解" />
+      <recent name="com.tjh.day15接口中的默认方法与静态方法" />
+      <recent name="com.tjh.day14Optional容器类" />
+      <recent name="com.tjh.day12StreamAPI_练习" />
+      <recent name="com.tjh.day11Stream_归约与收集" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java8\src\com\tjh\day14Optional容器类" />
+      <recent name="E:\java8\src\com\tjh\day12StreamAPI_练习" />
+      <recent name="E:\java8\src\com\tjh\day01Lambda表达式" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestNewDateAPI2.test1">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLocalDateTime.test10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tjh.day17新时间与日期API_本地时间与时间戳.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tjh.day17新时间与日期API_本地时间与时间戳" />
+      <option name="MAIN_CLASS_NAME" value="com.tjh.day17新时间与日期API_本地时间与时间戳.TestLocalDateTime" />
+      <option name="METHOD_NAME" value="test10" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNewDateAPI2.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tjh.day18新时间和日期API_时间校正器.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tjh.day18新时间和日期API_时间校正器" />
+      <option name="MAIN_CLASS_NAME" value="com.tjh.day18新时间和日期API_时间校正器.TestNewDateAPI2" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOptional1.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tjh.day14Optional容器类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tjh.day14Optional容器类" />
+      <option name="MAIN_CLASS_NAME" value="com.tjh.day14Optional容器类.TestOptional1" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOptional1.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tjh.day14Optional容器类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tjh.day14Optional容器类" />
+      <option name="MAIN_CLASS_NAME" value="com.tjh.day14Optional容器类.TestOptional1" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOptional1.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tjh.day14Optional容器类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tjh.day14Optional容器类" />
+      <option name="MAIN_CLASS_NAME" value="com.tjh.day14Optional容器类.TestOptional1" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestOptional1.test2" />
+      <item itemvalue="JUnit.TestOptional1.test3" />
+      <item itemvalue="JUnit.TestOptional1.test5" />
+      <item itemvalue="JUnit.TestLocalDateTime.test10" />
+      <item itemvalue="JUnit.TestNewDateAPI2.test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestNewDateAPI2.test1" />
+        <item itemvalue="JUnit.TestLocalDateTime.test10" />
+        <item itemvalue="JUnit.TestOptional1.test5" />
+        <item itemvalue="JUnit.TestOptional1.test3" />
+        <item itemvalue="JUnit.TestOptional1.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecbdcb56-80f4-4afb-955e-2b387c4627e1" name="Default" comment="" />
+      <created>1561641788300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561641788300</updated>
+      <workItem from="1561641792686" duration="3795000" />
+      <workItem from="1561791872333" duration="2349000" />
+      <workItem from="1561880250194" duration="5704000" />
+      <workItem from="1561992286841" duration="1308000" />
+      <workItem from="1562074259397" duration="5426000" />
+      <workItem from="1562245773539" duration="1779000" />
+      <workItem from="1562248330009" duration="3987000" />
+      <workItem from="1562335245414" duration="5170000" />
+      <workItem from="1562381327501" duration="18298000" />
+      <workItem from="1562468453828" duration="6879000" />
+      <workItem from="1562483401219" duration="5562000" />
+      <workItem from="1562588886697" duration="1826000" />
+      <workItem from="1581481053592" duration="1185000" />
+      <workItem from="1581930755812" duration="1181000" />
+      <workItem from="1581985413459" duration="2195000" />
+      <workItem from="1583043530114" duration="709000" />
+      <workItem from="1583152897951" duration="1811000" />
+      <workItem from="1584363004696" duration="65000" />
+      <workItem from="1595042648080" duration="909000" />
+      <workItem from="1595045876494" duration="622000" />
+      <workItem from="1595140680499" duration="7494000" />
+      <workItem from="1595677712103" duration="955000" />
+      <workItem from="1611026668844" duration="1854000" />
+      <workItem from="1611141270824" duration="1233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestStreamAPI6_test3 - 2020.07.19 at 16h 32m 43s.xml">
+      <configuration name="TestStreamAPI6.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStreamAPI6_test4 - 2020.07.19 at 16h 33m 49s.xml">
+      <configuration name="TestStreamAPI6.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStreamAPI6_test5 - 2020.07.19 at 16h 34m 27s.xml">
+      <configuration name="TestStreamAPI6.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStreamAPI6_test10 - 2020.07.19 at 16h 36m 26s.xml">
+      <configuration name="TestStreamAPI6.test10" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestOptional1_test1 - 2020.07.19 at 16h 43m 08s.xml">
+      <configuration name="TestOptional1.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestOptional1_test2 - 2020.07.19 at 16h 43m 28s.xml">
+      <configuration name="TestOptional1.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestOptional1_test3 - 2020.07.19 at 16h 44m 10s.xml">
+      <configuration name="TestOptional1.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestOptional1_test5 - 2020.07.19 at 16h 45m 36s.xml">
+      <configuration name="TestOptional1.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLocalDateTime_test10 - 2020.07.19 at 16h 51m 09s.xml">
+      <configuration name="TestLocalDateTime.test10" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestNewDateAPI2_test1 - 2020.07.19 at 16h 51m 47s.xml">
+      <configuration name="TestNewDateAPI2.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="82296000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1945629" />
+      <window_info id="Alibaba Cloud Explorer" order="1" weight="0.32941177" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.54634833" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.35076252" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32872927" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="14" />
+      <window_info anchor="bottom" id="MyBatis Log" order="15" />
+      <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="right" id="RestServices" order="10" weight="0.32941177" />
+      <window_info anchor="right" id="Maven" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26691177" />
+      <window_info id="Alibaba Cloud Explorer" order="1" weight="0.32941177" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.19475138" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32872927" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" visible="true" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="right" id="RestServices" order="10" weight="0.32941177" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/软件学习/DIY脚本/java8/java8/source/java8-day02/src/com/atguigu/java8/TestStreamAPI3.java" />
+    <entry file="file://D:/软件学习/DIY脚本/java8/java8/source/java8-day02/src/com/atguigu/java8/TestStreamAPI2.java" />
+    <entry file="file://$PROJECT_DIR$/java8.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day03Lambda练习/MyFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day03Lambda练习/MyFunction2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day03Lambda练习/TestLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Consumer.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day04四大内置核心函数式接口/Lambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-918">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day05方法引用与构造器引用/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Integer.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day05方法引用与构造器引用/TestMethodRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1370">
+          <caret line="72" column="51" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day06创建Stream/TestStreamAPI1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day07Stream_筛选与切片/TestStreamAPI2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-621">
+          <caret line="66" column="17" selection-start-line="66" selection-start-column="17" selection-end-line="67" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day08Stream_映射/TestStreamAPI3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="77" column="49" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day09Stream_排序/TestStreamAPI4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day10Stream_查找与匹配/TestStreamAPI5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2073">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day13并行流与串行流/ForkJoinCalculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="56" lean-forward="true" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day13并行流与串行流/TestForkJoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1155">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day14Optional容器类/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day14Optional容器类/Godness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day14Optional容器类/Man.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day14Optional容器类/NewMan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day14Optional容器类/TestOptional1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="88" column="104" selection-start-line="88" selection-start-column="52" selection-end-line="88" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day14Optional容器类/TestOptional2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day15接口中的默认方法与静态方法/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day15接口中的默认方法与静态方法/MyFun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day15接口中的默认方法与静态方法/MyInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day15接口中的默认方法与静态方法/SubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day15接口中的默认方法与静态方法/SubClass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day15接口中的默认方法与静态方法/TestDefaultInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day16传统时间格式化的线程安全问题/TestSimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-966">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day18新时间和日期API_时间校正器/TestNewDateAPI2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day19新时间和日期API_时间格式化与时区的处理/TestNewDateAPI3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day17新时间与日期API_本地时间与时间戳/TestLocalDateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day11Stream_归约与收集/TestStreamAPI6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="45" column="45" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day12StreamAPI_练习/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day12StreamAPI_练习/TestTransaction1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="37" column="82" selection-start-line="37" selection-start-column="82" selection-end-line="37" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day12StreamAPI_练习/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day12StreamAPI_练习/Trader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day12StreamAPI_练习/TestStreamAPI7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day01Lambda表达式/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
+          <folding>
+            <element signature="e#5536#5537#0" expanded="true" />
+            <element signature="e#5583#5584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day01Lambda表达式/Lambda1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day02Lambda2/Lambda2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="107" column="49" selection-start-line="107" selection-start-column="37" selection-end-line="107" selection-end-column="49" />
+          <folding>
+            <element signature="e#2851#2852#0" expanded="true" />
+            <element signature="e#2890#2891#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day02Lambda2/MyFun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day20重复注解与类型注解/MyAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day20重复注解与类型注解/MyAnnotations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tjh/day20重复注解与类型注解/TestAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
